@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.exe
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.deps.json
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.runtimeconfig.json
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.dll
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\ref\PoblemaRainhasPacificas.dll
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\bin\Debug\net5.0\PoblemaRainhasPacificas.pdb
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.dll
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\ref\PoblemaRainhasPacificas.dll
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.pdb
+C:\Users\Usuario\source\repos\PoblemaRainhasPacificas\PoblemaRainhasPacificas\obj\Debug\net5.0\PoblemaRainhasPacificas.genruntimeconfig.cache
